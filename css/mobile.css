@@ -1,0 +1,12 @@
+/* Header (navigation bar)  */
+.navbar {
+  flex-direction: column;
+  align-items: center;
+}
+
+/* home section */
+
+/* services section */
+.services {
+  flex-direction: column;
+}
